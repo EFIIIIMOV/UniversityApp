@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2535" />
+        <entry key="app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_descipline_item_background.xml" value="0.234" />
+        <entry key="app/src/main/res/drawable/ic_email_password_back.xml" value="0.2065" />
+        <entry key="app/src/main/res/drawable/ic_exhibiting_result_back.xml" value="0.1305" />
+        <entry key="app/src/main/res/drawable/ic_info_screen_back.xml" value="0.234" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2535" />
+        <entry key="app/src/main/res/drawable/ic_list_background.xml" value="0.10323944091796883" />
+        <entry key="app/src/main/res/drawable/ic_name_surname_visits_back.xml" value="0.212" />
+        <entry key="app/src/main/res/drawable/ic_question_mark_sign_svgrepo_com.xml" value="0.2535" />
+        <entry key="app/src/main/res/drawable/ic_student_res_back.xml" value="0.2065" />
+        <entry key="app/src/main/res/drawable/ic_student_res_descipline_name_back.xml" value="0.2065" />
+        <entry key="app/src/main/res/drawable/ic_student_res_ex.xml" value="0.2065" />
+        <entry key="app/src/main/res/drawable/ic_student_res_point_grade_back.xml" value="0.2065" />
+        <entry key="app/src/main/res/drawable/ic_student_res_point_grade_num_back.xml" value="0.1645" />
+        <entry key="app/src/main/res/drawable/ic_student_res_points_grade_back.xml" value="0.2065" />
+        <entry key="app/src/main/res/drawable/ic_student_res_progress_bar_back.xml" value="0.2065" />
+        <entry key="app/src/main/res/drawable/ic_student_res_work_name.xml" value="0.2065" />
+        <entry key="app/src/main/res/drawable/ic_teacher_student_choise_list_back.xml" value="0.2555" />
+        <entry key="app/src/main/res/drawable/ic_user_acc_image.xml" value="0.147" />
+        <entry key="app/src/main/res/drawable/ic_user_photo_back.xml" value="0.1645" />
+        <entry key="app/src/main/res/drawable/ic_visits_button_back.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_visits_ex_field.xml" value="0.2555" />
+        <entry key="app/src/main/res/font/raleway_dots.xml" value="0.34010416666666665" />
+        <entry key="app/src/main/res/layout-v28/activity_student_main_screen.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_date_choise_screen.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_log_info_screen.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2780117252480395" />
+        <entry key="app/src/main/res/layout/activity_student_main_screen.xml" value="0.26211151658442955" />
+        <entry key="app/src/main/res/layout/activity_student_res_screen.xml" value="0.37974573996214744" />
+        <entry key="app/src/main/res/layout/activity_student_visits_screen.xml" value="0.3004564935067429" />
+        <entry key="app/src/main/res/layout/activity_teacher_main_screen.xml" value="0.320281982421875" />
+        <entry key="app/src/main/res/layout/activity_teacher_student_choise_screen.xml" value="0.4031814575195317" />
+        <entry key="app/src/main/res/layout/activity_work_exhibiting_result_screen.xml" value="0.2578715968776394" />
+        <entry key="app/src/main/res/layout/content_student_main_screen.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/descipline_list_item.xml" value="0.2305008149482835" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/res_list_item.xml" value="0.40654449462890624" />
+        <entry key="app/src/main/res/layout/res_list_item_for_teacher.xml" value="0.49727630615234375" />
+        <entry key="app/src/main/res/layout/visits_list_item.xml" value="0.8768280029296875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

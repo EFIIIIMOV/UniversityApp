@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "156750786175",
+    "firebase_url": "https://universityappead-default-rtdb.firebaseio.com",
+    "project_id": "universityappead",
+    "storage_bucket": "universityappead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156750786175:android:d96101ce16b8565ca2194a",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156750786175-o6e1f4qilovdb4o4nph77nohgp1evbks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test",
+            "certificate_hash": "ce4d75359ff69e240a572c9694dd5ce9c69169cc"
+          }
+        },
+        {
+          "client_id": "156750786175-2co8tat61a5dj8mppq99fpfe5qddfo8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAose0vjaKFk4Uo2jG--X8RGwRAqgU890"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156750786175-2co8tat61a5dj8mppq99fpfe5qddfo8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

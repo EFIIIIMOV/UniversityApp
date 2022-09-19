@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="goToInfoButton">ИФ</string>
+    <string name="loginbutton">ВХОД</string>
+    <string name="title_activity_student_main_screen">StudentMainScreen</string>
+    <string name="StudentMainScreen">StudentMainScreen</string>
+    <string name="howGetLoginAndPassword">Где взять логин и пароль</string>
+    <string name="howGetLogin">Логин - ...</string>
+    <string name="howGetPassword">Пароль - ...</string>
+    <string name="studentScreenPoints">Баллы</string>
+    <string name="studentScreenGrade">Оценки</string>
+</resources>
